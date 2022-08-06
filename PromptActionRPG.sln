@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromptActionRPG", "PromptActionRPG\PromptActionRPG.csproj", "{FC09E3FD-172A-405A-90E3-1C8A4148BFCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC09E3FD-172A-405A-90E3-1C8A4148BFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC09E3FD-172A-405A-90E3-1C8A4148BFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC09E3FD-172A-405A-90E3-1C8A4148BFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC09E3FD-172A-405A-90E3-1C8A4148BFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CD8F6A0-E790-49B2-AFB4-AC176E552A94}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\PromptActionRPG\PromptActionRPG\bin\Debug\PromptActionRPG.exe.config
+C:\Users\User\Desktop\PromptActionRPG\PromptActionRPG\bin\Debug\PromptActionRPG.exe
+C:\Users\User\Desktop\PromptActionRPG\PromptActionRPG\bin\Debug\PromptActionRPG.pdb
+C:\Users\User\Desktop\PromptActionRPG\PromptActionRPG\obj\Debug\PromptActionRPG.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PromptActionRPG\PromptActionRPG\obj\Debug\PromptActionRPG.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\PromptActionRPG\PromptActionRPG\obj\Debug\PromptActionRPG.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PromptActionRPG\PromptActionRPG\obj\Debug\PromptActionRPG.exe
+C:\Users\User\Desktop\PromptActionRPG\PromptActionRPG\obj\Debug\PromptActionRPG.pdb
+C:\Users\ich96\OneDrive\바탕 화면\PromptActionRPG\PromptActionRPG\PromptActionRPG\bin\Debug\PromptActionRPG.exe.config
+C:\Users\ich96\OneDrive\바탕 화면\PromptActionRPG\PromptActionRPG\PromptActionRPG\bin\Debug\PromptActionRPG.exe
+C:\Users\ich96\OneDrive\바탕 화면\PromptActionRPG\PromptActionRPG\PromptActionRPG\bin\Debug\PromptActionRPG.pdb
+C:\Users\ich96\OneDrive\바탕 화면\PromptActionRPG\PromptActionRPG\PromptActionRPG\obj\Debug\PromptActionRPG.csproj.AssemblyReference.cache
+C:\Users\ich96\OneDrive\바탕 화면\PromptActionRPG\PromptActionRPG\PromptActionRPG\obj\Debug\PromptActionRPG.csproj.SuggestedBindingRedirects.cache
+C:\Users\ich96\OneDrive\바탕 화면\PromptActionRPG\PromptActionRPG\PromptActionRPG\obj\Debug\PromptActionRPG.csproj.CoreCompileInputs.cache
+C:\Users\ich96\OneDrive\바탕 화면\PromptActionRPG\PromptActionRPG\PromptActionRPG\obj\Debug\PromptActionRPG.exe
+C:\Users\ich96\OneDrive\바탕 화면\PromptActionRPG\PromptActionRPG\PromptActionRPG\obj\Debug\PromptActionRPG.pdb
+C:\Users\User\Desktop\PromptActionRPG\PromptActionRPG\PromptActionRPG\bin\Debug\PromptActionRPG.exe.config
+C:\Users\User\Desktop\PromptActionRPG\PromptActionRPG\PromptActionRPG\bin\Debug\PromptActionRPG.exe
+C:\Users\User\Desktop\PromptActionRPG\PromptActionRPG\PromptActionRPG\bin\Debug\PromptActionRPG.pdb
+C:\Users\User\Desktop\PromptActionRPG\PromptActionRPG\PromptActionRPG\obj\Debug\PromptActionRPG.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PromptActionRPG\PromptActionRPG\PromptActionRPG\obj\Debug\PromptActionRPG.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\PromptActionRPG\PromptActionRPG\PromptActionRPG\obj\Debug\PromptActionRPG.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PromptActionRPG\PromptActionRPG\PromptActionRPG\obj\Debug\PromptActionRPG.exe
+C:\Users\User\Desktop\PromptActionRPG\PromptActionRPG\PromptActionRPG\obj\Debug\PromptActionRPG.pdb
